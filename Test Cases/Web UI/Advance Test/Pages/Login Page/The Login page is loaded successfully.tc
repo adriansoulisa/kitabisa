@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>The Login page is loaded successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edadd79c-f821-4399-9dcd-676dfe1c90b8</testCaseGuid>
+</TestCaseEntity>
